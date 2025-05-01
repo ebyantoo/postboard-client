@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "publishConfig": {
-    "registry":"http://ec2-52-15-146-91.us-east-2.compute.amazonaws.com:8081/repository/postboard-client_hosted/"
+    "registry":"http://178.128.97.234:8081/repository/postboard-client/"
   },
   "dependencies": {
     "@cloudinary/react": "^1.11.2",
